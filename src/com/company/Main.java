@@ -22,5 +22,7 @@ public class Main {
                 System.out.println("B es mayor que A.\n");
             }
         }
+        //Cerramos el scanner.
+        sc.close();
     }
 }
